@@ -1,8 +1,8 @@
 void setup() {
   fullScreen();
-  background(0);
+  background(255);
   noStroke();
-  fill(102);
+  fill(0);
 }
 
 int x=0;
