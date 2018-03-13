@@ -11,3 +11,4 @@ void draw() {
   x = x + 2;
 }
 // Ty ogarnij może jak z Atoma się commity robi, a nie
+// hahah :p no wlasnie ogsrniam to. chwileczke..
