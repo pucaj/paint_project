@@ -1,1 +1,7 @@
-// Start file
+
+void setup() {
+  fullScreen();
+  background(0);
+  noStroke();
+  fill(102);
+}
