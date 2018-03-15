@@ -29,6 +29,9 @@ void draw() {
   strokeWeight(weight);
   strokeCap(ROUND);
   strokeJoin(ROUND);
+  
+  if(keyPressed) { background(255); }
+  
   if (mousePressed == true){
 
     /*  Waga zależna od prędkości ruchu myszką
